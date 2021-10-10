@@ -67,7 +67,7 @@ input[type="text"] {
   padding: 20px;
 }
 
-input[type="submit"] {
+.button, .button_blue {
   font-size: 14px;
   min-width: 120px;
   height: 35px;
